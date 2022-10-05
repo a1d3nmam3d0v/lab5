@@ -1,5 +1,3 @@
-from distutils.log import error
-from logging import raiseExceptions
 import sqlite3
 
 db = "juggling_records.sqlite"
